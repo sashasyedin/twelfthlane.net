@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{{ site.title }} | {{ page.title }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Alexander Ivanov">
+
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/custom.css" rel="stylesheet">
+	
+    <!--[if lt IE 9]>
+    <![endif]-->
+	
+	<link rel="shortcut icon" href="/images/nameplate16x16.png">
+</head>
+<body>
+	<div class="container-narrow">
+		<div class="masthead">
+			<ul class="nav nav-pills pull-right">
+				<li{% if page.url == "/blog.html" or page.post %} class="active"{% endif %}><a href="/blog">Blog</a></li>
+				<li{% if page.url == "/podcasts.html" %} class="active"{% endif %}><a href="/podcasts">Podcast</a></li>
+				<li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
+			</ul>
+			<div class="page-header">
+				<h1 class="muted">
+					<a href="/">--&gt;</a>
+				</h1>
+			</div>
+		</div>
+		
+		{{ content }}
+		
+		<hr>
+		<div class="footer muted row-fluid">
+			<div class="span4">
+				<p></p>
+			</div>
+			<div class="span4">
+				<p></p>
+			</div>
+			<div class="span4">
+				<p></p>
+			</div>
+		</div>
+	</div> <!-- /container -->
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.js"></script>
+</body>
+</html>

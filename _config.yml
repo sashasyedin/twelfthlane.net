@@ -1,0 +1,5 @@
+title: twelfthlane.net --&gt;
+permalink: /:year/:month/:day/:title
+url: http://twelfthlane.net
+exclude:
+- README.textile

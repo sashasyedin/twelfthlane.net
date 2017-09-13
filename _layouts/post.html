@@ -1,0 +1,20 @@
+---
+layout: default
+post: true
+---
+<article>
+	<header>
+		<div class="page-header">
+			<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		</div>
+	</header>
+	
+	{{ content }}
+	
+	<footer>
+		<p class="well well-small">
+			{{ page.date | date_to_long_string }}
+			<span class="pull-right">{{ site | flattr_button:page }}</span>
+		</p>
+	</footer>
+</article>
