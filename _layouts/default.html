@@ -18,6 +18,7 @@
 	<div class="container-narrow">
 		<div class="masthead">
 			<ul class="nav nav-pills pull-right">
+				<li{% if page.url == "/" %} class="active"{% endif %}><a href="/">Home</a></li>
 				<li{% if page.url == "/blog.html" or page.post %} class="active"{% endif %}><a href="/blog">Blog</a></li>
 				<li{% if page.url == "/podcasts.html" %} class="active"{% endif %}><a href="/podcasts">Podcast</a></li>
 				<li{% if page.url == "/about.html" %} class="active"{% endif %}><a href="/about">About</a></li>
