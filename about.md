@@ -10,6 +10,9 @@ title: About Alexander Ivanov
 		While having a full-time job, I still find time to get other stuff done, like more coding!
 		I’m currently software engineer at Navico.
 	</p>
+	<p>
+		... besides, I love history and a good IPA
+	</p>
 </div>
 
 ## Other website stuff
