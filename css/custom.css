@@ -38,6 +38,20 @@ div.masthead div.page-header h3 {
   font-family: monospace, "Courier New";
 }
 
+@media only screen and (max-width: 450px) {
+  h3.muted {
+    display: none;
+  }
+
+  ul.nav {
+    float: none;
+  }
+
+  div.page-header {
+    padding-bottom: 0px;
+  }
+}
+
 h2.small {
   font-size: 24px;
 }
