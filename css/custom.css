@@ -3,6 +3,10 @@ body {
   padding-bottom: 40px;
 }
 
+footer {
+  margin: 30px 0;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -48,7 +52,7 @@ div.masthead div.page-header h3 {
   }
 
   div.page-header {
-    padding-bottom: 0px;
+    padding-bottom: 0;
   }
 }
 
