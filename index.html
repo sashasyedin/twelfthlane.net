@@ -19,12 +19,12 @@ title: Homepage
 </div>
 
 <div class="row-fluid marketing">
-	{% for post in site.posts limit:5 %}
+	{% for post in site.posts limit:3 %}
 		{% if forloop.first %}
 		{% else %}
 			<div class="span6">
 				<h2 class="small"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-				<p>{{ post.content | truncatewords:120 }}</p>
+				<p>{{ post.content | truncatewords:80 }}</p>
 			</div>
 		{% endif %}
 	{% endfor %}
