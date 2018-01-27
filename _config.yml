@@ -1,5 +1,12 @@
 title: twelfthlane.net -12th-ln-&gt;
 permalink: /:year/:month/:day/:title
 url: http://twelfthlane.net
+contact-links:
+  skype: live:dodecad
+  telegram: dodecad
+  email: dodecad@outlook.com
 exclude:
-- README.textile
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
