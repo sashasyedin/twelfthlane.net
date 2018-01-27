@@ -18,7 +18,7 @@ title: About Alexander Ivanov
 ## Other website stuff
 
 * [github.com/dodecad](https://github.com/dodecad) – A little bit of code
-* [bitbucket.org/dodecad](https://bitbucket.org/dodecad) – Team projects
+* [bitbucket.org/dodecad](https://bitbucket.org/dodecad) – Team projects (deprecated)
 * [codewars.com/dodecad](https://codewars.com/users/dodecad) – Morning brain exercises
 
 <div class="contacts">
