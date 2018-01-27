@@ -7,6 +7,19 @@ footer {
   margin: 30px 0;
 }
 
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active
+{
+  text-decoration: none;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -63,6 +76,11 @@ h2.small {
 
 .red-ish {
   color: #9D261D;
+}
+
+.contacts {
+  margin: 50px 0 30px 0;
+  text-align: center;
 }
 
 .svg-icon {

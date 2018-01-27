@@ -21,4 +21,6 @@ title: About Alexander Ivanov
 * [bitbucket.org/dodecad](https://bitbucket.org/dodecad) – Team projects
 * [codewars.com/dodecad](https://codewars.com/users/dodecad) – Morning brain exercises
 
-{% include svg-icons.html %}
+<div class="contacts">
+	{% include svg-icons.html %}
+</div>
