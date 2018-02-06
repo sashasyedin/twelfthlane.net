@@ -11,7 +11,7 @@ title: About Alexander Ivanov
 		I’m currently software engineer at Navico.
 	</p>
 	<p>
-		... besides, I love history and a good IPA.
+		... besides, I love history, rock-n-roll and a good IPA.
 	</p>
 </div>
 
