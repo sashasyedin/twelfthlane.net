@@ -10,10 +10,10 @@ title: About Alexander Ivanov
 	<p>
 		Hi there, I’m Alexander, a software developer living and working in Saint Petersburg, Russia.
 		While having a full-time job, I still find time to get other stuff done, like more coding!
-		I’m currently a Senior Backend Engineer at Keywords Studios.
+		I’m currently a Senior Backend Engineer at Keywords Studios. Moreover, I love rock-n-roll, football, Linux and a good IPA, in roughly that order.
 	</p>
-	<p>
-		Moreover, I love rock-n-roll, football, Linux and a good IPA, in roughly that order.
+	<p markdown="1">
+		For some more information, you can have a look at my [CV]({{ site.url }}/download/cv-alexander-ivanov.pdf).
 	</p>
 </div>
 
