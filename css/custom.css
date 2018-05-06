@@ -89,6 +89,13 @@ h2.small {
   display: inline-block;
 }
 
+.about-image {
+  width: 300px;
+  height: auto;
+  margin: 50px auto;
+  display: block;
+}
+
 .post-image {
   width: 450px;
   height: auto;

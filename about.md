@@ -2,16 +2,18 @@
 layout: default
 title: About Alexander Ivanov
 ---
+![cassette](/images/photo.jpg){: .about-image }
+
 <h1>Alexander Ivanov</h1>
 
 <div class="row-fluid">
 	<p>
-		Hi there, I’m Alex, a software developer living and working in St. Petersburg, Russia.
+		Hi there, I’m Alexander, a software developer living and working in Saint Petersburg, Russia.
 		While having a full-time job, I still find time to get other stuff done, like more coding!
-		I’m currently software engineer at Navico.
+		I’m currently a Senior Backend Engineer at Keywords Studios. Moreover, I love rock-n-roll, football, Linux and a good IPA, in roughly that order.
 	</p>
-	<p>
-		... besides, I love rock-n-roll, Linux and a good IPA.
+	<p markdown="1">
+		For some more information, you can have a look at my [CV]({{ site.url }}/download/cv-alexander-ivanov.pdf).
 	</p>
 </div>
 
