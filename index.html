@@ -14,7 +14,7 @@ title: Homepage
 <div class="row-fluid marketing">
 	<div>
 		<h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-		<p>{{ site.posts.first.content | truncatewords:120 }}</p>
+		<p>{{ site.posts.first.content | truncatewords:70 }}</p>
 	</div>
 </div>
 
@@ -24,7 +24,7 @@ title: Homepage
 		{% else %}
 			<div class="span6">
 				<h2 class="small"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-				<p>{{ post.content | truncatewords:80 }}</p>
+				<p>{{ post.content | truncatewords:50 }}</p>
 			</div>
 		{% endif %}
 	{% endfor %}
