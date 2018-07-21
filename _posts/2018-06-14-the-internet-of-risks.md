@@ -1,5 +1,5 @@
 ---
-title: "The Internet of Risks."
+title: The Internet of Risks
 layout: post
 subtitle: IoT
 category: Technology

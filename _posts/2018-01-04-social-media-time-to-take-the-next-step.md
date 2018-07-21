@@ -1,5 +1,5 @@
 ---
-title: "Social media: time to take the next step."
+title: "Social media: time to take the next step"
 layout: post
 subtitle: Social Networking
 category: Technology
