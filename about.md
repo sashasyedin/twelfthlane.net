@@ -12,16 +12,13 @@ title: About Alexander Ivanov
 		While having a full-time job, I still find time to get other stuff done, like more coding!
 		I’m currently a Senior Backend Engineer at Keywords Studios. Moreover, I love rock-n-roll, football, Linux and a good IPA, in roughly that order.
 	</p>
-	<p markdown="1">
-		For some more information, you can have a look at my [CV]({{ site.url }}/download/cv-alexander-ivanov.pdf).
-	</p>
 </div>
 
 ## Other website stuff
 
-* [github.com/dodecad](https://github.com/dodecad) – A little bit of code
-* [bitbucket.org/dodecad](https://bitbucket.org/dodecad) – Team projects (deprecated)
-* [codewars.com/dodecad](https://codewars.com/users/dodecad) – Morning brain exercises
+* [github.com/velanixon](https://github.com/velanixon) – A little bit of code
+* [bitbucket.org/velanixon](https://bitbucket.org/velanixon) – Team projects (deprecated)
+* [codewars.com/velanixon](https://codewars.com/users/velanixon) – Morning brain exercises
 
 <div class="contacts">
 	{% include svg-icons.html %}
