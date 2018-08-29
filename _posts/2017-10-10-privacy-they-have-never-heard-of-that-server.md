@@ -1,5 +1,5 @@
 ---
-title: Privacy? They've never heard of that server
+title: Privacy? They've Never Heard of That Server
 layout: post
 subtitle: Privacy
 category: Technology
