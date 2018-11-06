@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Alexander Ivanov
+title: About Me
 ---
 ![photo-of-me](/images/photo.jpg){: .about-image }
 
