@@ -1,5 +1,5 @@
 ---
-title: "The Quantum Threat: It May Be Time To Sound the Alarm"
+title: "The Quantum Threat: It May Be Time to Sound the Alarm"
 layout: post
 subtitle: Quantum Computers
 category: Technology
