@@ -20,7 +20,6 @@ title: About Me
 ## Other website stuff
 
 * [github.com/sashasyedin](https://github.com/sashasyedin) – A little bit of code
-* [bitbucket.org/sashasyedin](https://bitbucket.org/sashasyedin) – Team projects
 * [codewars.com/sashasyedin](https://codewars.com/users/sashasyedin) – Morning brain exercises
 
 <div class="contacts">
