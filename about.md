@@ -22,8 +22,9 @@ title: About Me
 
 ## Other website stuff
 
-* [github.com/sashasyedin](https://github.com/sashasyedin) – A little bit of code
-* [codewars.com/sashasyedin](https://codewars.com/users/sashasyedin) – Morning brain exercises
+* [github.com](https://github.com/sashasyedin) – A little bit of code
+* [codewars.com](https://codewars.com/users/sashasyedin) – Morning brain exercises
+* [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
 
 <div class="contacts">
 	{% include svg-icons.html %}
