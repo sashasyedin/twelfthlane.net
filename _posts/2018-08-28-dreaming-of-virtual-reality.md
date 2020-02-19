@@ -2,7 +2,6 @@
 title: Dreaming of Virtual Reality
 layout: post
 subtitle: VR
-category: Technology
 ---
 Even though VR doesn't allow us to simulate reality, it allows us to create situations that could never happen in real life. With Virtual Reality you are able to visit places you have never been before, in times that might be far in the future or past. So I'm a great believer in the future of VR. I really believe that it's one of the most important development in computer technology happening in our lifetime. But today the industry is going through tough times.
 
