@@ -8,7 +8,7 @@ title: About Me
 
 <div class="row-fluid">
 	<p>
-		Hi there, I'm Alexander, a software developer living and working in <s>St Petersburg, Russia</s> <s>Helsinki, Finland</s> St Petersburg, Russia.
+		Hi there, I'm Alexander, a software developer living and working in St Petersburg/Helsinki.
 		While having a full-time job, I still find time to get other stuff done, like more coding!
 		Moreover, I love rock-n-roll, football, Linux and a good IPA, in roughly that order.
 	</p>
@@ -20,6 +20,7 @@ title: About Me
 ## Other website stuff
 
 * [github.com](https://github.com/sashasyedin) – A little bit of code
+* [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges
 * [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
 
 <div class="contacts">
