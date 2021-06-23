@@ -17,7 +17,7 @@ title: About Me
 	</p>
 </div>
 
-## Other website stuff
+## Links
 
 * [github.com](https://github.com/sashasyedin) – A little bit of code
 * [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges

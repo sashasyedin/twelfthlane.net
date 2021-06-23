@@ -88,9 +88,9 @@ h2.small {
 }
 
 .about-image {
-  width: 300px;
+  width: 500px;
   height: auto;
-  margin: 50px auto;
+  margin: auto auto 50px auto;
   display: block;
 }
 
