@@ -19,9 +19,11 @@ title: About Me
 
 ## Links
 
+* [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
 * [github.com](https://github.com/sashasyedin) – A little bit of code
 * [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges
-* [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
+* [credly.com](https://www.credly.com/users/sashasyedin) - Certification badges
+* [chess.com](https://www.chess.com/member/sashasyedin) - How about a nice game of chess?
 
 <div class="contacts">
 	{% include svg-icons.html %}
