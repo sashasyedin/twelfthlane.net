@@ -42,11 +42,14 @@ a:active
   padding: 14px 24px;
 }
 
-.marketing {
+.segment {
   margin: 30px 0;
 }
-.marketing p + h4 {
+.segment p + h4 {
   margin-top: 28px;
+}
+.segment .sub-segment {
+  margin-bottom: 20px;
 }
 
 div.masthead div.page-header h3 {

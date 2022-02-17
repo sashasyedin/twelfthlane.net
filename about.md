@@ -2,18 +2,10 @@
 layout: default
 title: About Me
 ---
-<div class="jumbotron">
-	<h1>It's a Brave New World</h1>
-	<p class="lead">
-		We Just Live In It
-	</p>
-</div>
-
-<hr>
-
-<div class="row-fluid">
+<div class="row-fluid segment">
+	<h2 class="small"><a href="{{ page.url }}">About Me</a></h2>
 	<p>
-		Hi there, I'm Alexander, a software developer living and working in St Petersburg.
+		Hi there, I'm Sasha, a software developer living and working in St Petersburg.
 		From time to time I write blog posts on what I'm working on, topics that interest me or just share some thoughts on life, <s>death and immortality</s>.
 	</p>
 </div>
