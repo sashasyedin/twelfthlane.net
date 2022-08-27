@@ -81,6 +81,10 @@ h2.small {
   line-height: 32px;
 }
 
+.blur {
+	filter: blur(1px);
+}
+
 .red-ish {
   color: #9D261D;
 }

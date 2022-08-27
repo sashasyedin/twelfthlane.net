@@ -8,5 +8,5 @@ contact-links:
 exclude:
   - README.md
   - CNAME
-  - Gemfile
-  - Gemfile.lock
+plugins:
+  - jemoji
