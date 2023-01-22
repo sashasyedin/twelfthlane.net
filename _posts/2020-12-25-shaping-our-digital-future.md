@@ -9,17 +9,17 @@ The effects of COVID-19 are having a significant impact on the technology sector
 
 Here are some technology trends that can help build a resilient society, as well as considerations about their effects on how we do business, how we trade, how we work, how we produce goods, how we learn, how we seek medical services and how we entertain ourselves.
 
-### Contactless Payments
+### Contactless payments
 Cash might carry the virus, so central banks in China, South Korea and US have implemented various measures to ensure banknotes are clean before they go into circulation. Now, contactless digital payments, either in the form of cards or e-wallets, are the recommended payment method to avoid the spread of COVID-19.
 
-### Online Entertainment
+### Online entertainment
 Although quarantine measures have reduced in-person interactions significantly, human creativity has brought the party online. Cloud raves and online streaming of concerts have gain traction around the world. Museums and international heritage sites offer virtual tours.
 
 ![woman-web-surfing-at-home](/images/2020-12-25-shaping-future-1.jpg){: .post-image }
 
 At the same time, it's difficult to say what the long-term impacts of coronavirus will be on the media industry because nobody knows exactly when things will return to normal. The extent of the disruption will likely depend on the type of content that media companies produce and distribute.
 
-### Remote Work
+### Remote work
 Many companies have asked employees to work from home. Remote work is enabled by technologies including virtual private networks (VPNs), voice over internet protocols (VoIPs), virtual meetings, cloud technology, work collaboration tools and even facial recognition technologies that enable a person to appear before a virtual background to preserve the privacy of the home.
 
 ### Telemedicine
