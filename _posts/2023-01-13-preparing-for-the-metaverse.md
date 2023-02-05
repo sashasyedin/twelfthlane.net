@@ -19,16 +19,16 @@ But the fact is that the Metaverse is still largely unformed. We're at least a 
 
 Here are some of the biggest challenges to realizing the Metaverse.
 
-### Problem #1
+#### Problem #1
 The information that can be collected in VR is extremely intimate. It will open entirely new categories of personal data that privacy experts fear will turn the Metaverse into the ultimate surveillance tool. As of now, there is little to no guidance on developing privacy-first Metaverse experiences or protecting one's identity while in the Metaverse.
 
-### Problem #2
+#### Problem #2
 The commercial, legal and regulatory implications of the Metaverse are enormous. Take intellectual property, for example: what are the limits of IP, ownership, piracy and patents in the virtual world? Are there digital land rights? How do brands deal with counterfeit digital products? Do you need a license to practice law in the Metaverse? The Metaverse also presents a new arena for hackers and new opportunities for criminal behavior. How will misconduct be reported? What recourse do victims of avatar identity theft have? Are financial transactions protected? There are many, many issues to think through.
 
-### Problem #3
+#### Problem #3
 Safety is still an issue in the virtual world. We've already seen cyberstalking, cyberbullying, revenge porn and more in virtual reality. It's naïve to think that online harassment or interpersonal workplace issues will disappear when we socialize and work in the Metaverse. But it's not only biased and sexist behavior that's worrying. Safety in the Metaverse encompasses physical safety and mental health, too.
 
-### Problem #4
+#### Problem #4
 Lastly, there are technical challenges such as computing power, connectivity (bandwidth) and interoperability. Cost may be an issue, too: though you can snag a VR headset today for under $300, enterprises need to account for additional costs like faster Wi-Fi and high-performance computers (especially for collaboration use cases requiring real-time rendering). Furthermore, a true ecosystem of virtual worlds, where a person's digital assets can be carried from one world to another, would require a level of partnership among Big Tech companies that's contrary to their nature and profits.
 
 I don't know if it's possible to create a safe, secure and responsible Metaverse, but I see companies today seem to be of an "act now, think later" mindset, which obviously can lead to pessimism about the future of the Metaverse.
