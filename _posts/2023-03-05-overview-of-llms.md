@@ -1,5 +1,5 @@
 ---
-title: Exploring the Capabilities and Implications of LLMs
+title: An Overview of Large Language Models
 layout: post
 subtitle: Large Language Models
 ---
