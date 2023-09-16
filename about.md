@@ -15,7 +15,6 @@ Links:
 * [github.com](https://github.com/sashasyedin) – A little bit of code
 * [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges
 * [credly.com](https://www.credly.com/users/sashasyedin) – Certification badges
-* [chess.com](https://www.chess.com/member/sashasyedin) – Play chess?
 
 <div class="contacts">
 	{% include svg-icons.html %}
