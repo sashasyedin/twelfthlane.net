@@ -13,7 +13,8 @@ Links:
 
 * [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
 * [github.com](https://github.com/sashasyedin) – A little bit of code
-* [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges
+* [leetcode.com](https://leetcode.com/u/sashasyedin) – Algorithm problem-solving practice
+* [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges (coding practice)
 * [credly.com](https://www.credly.com/users/sashasyedin) – Certification badges
 
 <div class="contacts">
