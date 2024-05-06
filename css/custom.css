@@ -89,6 +89,11 @@ h2.small {
   line-height: 32px;
 }
 
+article h4 {
+  margin-top: 20px;
+  color: #607123;
+}
+
 .blur {
 	filter: blur(1px);
 }
