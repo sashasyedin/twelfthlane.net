@@ -15,7 +15,7 @@ Cash might carry the virus, so central banks in China, South Korea and US have i
 #### Online entertainment
 Although quarantine measures have reduced in-person interactions significantly, human creativity has brought the party online. Cloud raves and online streaming of concerts have gain traction around the world. Museums and international heritage sites offer virtual tours.
 
-![woman-web-surfing-at-home](/images/2020-12-25-shaping-future-1.jpg){: .post-image }
+![woman-web-surfing-at-home](/images/2020-12-25-shaping-future-1.jpg){: .post-image .img-rounded }
 
 At the same time, it's difficult to say what the long-term impacts of coronavirus will be on the media industry because nobody knows exactly when things will return to normal. The extent of the disruption will likely depend on the type of content that media companies produce and distribute.
 
@@ -25,7 +25,7 @@ Many companies have asked employees to work from home. Remote work is enabled by
 #### Telemedicine
 Telemedicine (or telehealth) can be an effective way to contain the spread of COVID-19 while still providing essential primary care. Wearable personal IoT devices can track vital signs. Chatbots can make initial diagnoses based on symptoms identified by patients. The digital future comes so fast!
 
-![doctor-on-the-screen](/images/2020-12-25-shaping-future-2.jpg){: .post-image }
+![doctor-on-the-screen](/images/2020-12-25-shaping-future-2.jpg){: .post-image .img-rounded }
 
 As always when it comes to digital technology there are two sides to every coin. We may not yet be ready for AI to make life or death decisions about who gets a hospital bed. Some of the innovations here are only possible because of levels of state surveillance or that citizens living in democracies may not tolerate. One such example being the censorship of Wechat for criticism of the Chinese government's handling of the outbreak. I'm not suggesting those of us living in democracies should trade away our freedoms but the dilemma posed by technologies which offer greater efficiency at the cost of reduced privacy is not going to disappear.
 

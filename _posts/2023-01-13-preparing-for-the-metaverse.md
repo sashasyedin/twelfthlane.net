@@ -15,7 +15,7 @@ The majority of assessments suggest that the Metaverse has enormous potential ac
 
 But the fact is that the Metaverse is still largely unformed. We're at least a decade away from a persistent, interactive and shared virtual world parallel to our own and accessed (ideally) through a single gateway.
 
-![bart-simpson-writing-on-the-board](/images/2023-01-13-metaverse-not-yet.jpg){: .post-image }
+![bart-simpson-writing-on-the-board](/images/2023-01-13-metaverse-not-yet.jpg){: .post-image .img-rounded }
 
 Here are some of the biggest challenges to realizing the Metaverse.
 

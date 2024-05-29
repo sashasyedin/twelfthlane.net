@@ -9,6 +9,8 @@ title: About Me
 	</div>
 </div>
 
+![photo-of-me](/images/photo.jpg){: .about-image .img-rounded }
+
 Links:
 
 * [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile

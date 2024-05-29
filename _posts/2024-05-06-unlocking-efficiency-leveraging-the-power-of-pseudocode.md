@@ -8,7 +8,7 @@ In the dynamic realm of programming, efficiency isn't just a luxury, it's a nece
 #### Streamlining the Test-Driven Development Approach
 Test-Driven Development (TDD) advocates writing tests before writing the code itself, ensuring that the code meets the desired requirements. Pseudocode serves as an invaluable partner in this process, allowing developers to sketch out the logic and structure of their code before diving into implementation. By visualizing the steps and expected outcomes through pseudocode, developers can refine their test cases and approach with greater clarity, thereby accelerating the TDD cycle.
 
-![success-kid-meme](/images/2024-05-06-pseudocode.jpg){: .post-image }
+![success-kid-meme](/images/2024-05-06-pseudocode.jpg){: .post-image .img-rounded }
 
 #### Code Clarity: Visual Representation and Language Neutrality
 Using pseudocode for diagrams, such as sequence diagrams, and then elaborating on them to write functional tests provides a structured approach to documenting code logic. This method ensures clarity and readability while avoiding clutter caused by excessive comments. While comments are crucial for documenting code, over-reliance on them can clutter the codebase and obscure its essence. Additionally, expressing algorithms and concepts in a language-agnostic manner promotes comprehension across different programming paradigms and languages.

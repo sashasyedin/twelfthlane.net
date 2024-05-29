@@ -9,7 +9,7 @@ Examples of deep tech include artificial intelligence, biotechnology and quantum
 
 However, for deep tech, this wait is often well-rewarded as many of the science-based technologies that are created this way are highly disruptive and have huge impacts both on their respective fields and more broadly. Despite the risks and slow realization times, international investment levels in deep tech are rising, as successful technologies have the "potential to drive entire industries towards sustainability".
 
-![ml-and-ai-meme](/images/2021-11-20-deep-tech.jpg){: .post-image }
+![ml-and-ai-meme](/images/2021-11-20-deep-tech.jpg){: .post-image .img-rounded }
 
 At the same time, commercializing deep tech brings advanced technological innovations to the market and makes innovative products benefit society. However, the process of commercializing deep tech is not straight forward and is subject to many challenges. Let's discuss some of them.
 

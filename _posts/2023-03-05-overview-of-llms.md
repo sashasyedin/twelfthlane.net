@@ -7,7 +7,7 @@ You probably use an Large Language Model (LLM) every day without even knowing it
 
 A Large Language Model is a neural network-based model that is capable of considering the context of words in order to improve predictions of the next word in a sequence. These models are generally built using large datasets in order to better simulate the way people write. The autocomplete feature of many search engines is one of the most widely-known applications of LLMs. LLMs can be used for a variety of natural language processing tasks, such as part-of-speech tagging, automatic text generation, and machine translation. In many cases, LLMs can accomplish these tasks with little training data, due to their ability to learn from larger datasets.
 
-![me-pretending-that-ai-isnt-taking-over-the-world](/images/2023-03-05-llms.jpg){: .post-image }
+![me-pretending-that-ai-isnt-taking-over-the-world](/images/2023-03-05-llms.jpg){: .post-image .img-rounded }
 
 Five important Large Language Models in 2023:
 * *GPT-3*, a large-scale language model that was released in 2020. It is trained using a method called generative pretraining, which means that it is taught to predict what the next input will be. GPT-3 has 175 billion parameters and is the darling of the language model world because it produces human-like text.

@@ -5,7 +5,7 @@ subtitle: Edge Computing
 ---
 In elementary terms, Cloud computing is the technology of storing and accessing data/applications over the Internet rather than keeping that information in on-premises computer systems. With low maintenance and charges based on usage, Cloud computing's layered architecture allows the client to purchase services at different level of abstraction, depending upon their requirements: SaaS, PaaS, IaaS. It gives location independence as users can access these services anywhere with an Internet connection and a standard web browser.
 
-![crying-cloud](/images/2019-02-13-edge-computing.jpg){: .post-image }
+![crying-cloud](/images/2019-02-13-edge-computing.jpg){: .post-image .img-rounded }
 
 The data is a driving factor for every technology, especially for those witnessing digital transformation through technologies like artificial intelligence, internet of things and machine learning. Edge computing helps in speeding up the processes and reducing the delays in all such data-oriented industries.
 

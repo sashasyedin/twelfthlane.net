@@ -8,7 +8,7 @@ From Wiki:
 
 Sleep is an important part of our daily routine. It can impact every aspect of our lives, from our health to our mood, our weight, and our mental state. It can help us stay productive and perform at our best.
 
-![counting-sheep](/images/2020-01-05-sleep-tech.jpg){: .post-image }
+![counting-sheep](/images/2020-01-05-sleep-tech.jpg){: .post-image .img-rounded }
 
 At the same time, it's a great field of innovation with numerous products available that are designed to enhance sleep. In addition to the traditional categories of clinics, pharmaceuticals and bedroom furniture and bedding, a new wave of sleep gadgets has emerged. Crowdfunding platforms are full of novel sleep devices from masks to robots. Many are connected, continuing the trend of measuring and connecting our lives. Some even aim to stimulate the brain to create therapeutic effects.
 
