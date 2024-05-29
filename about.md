@@ -13,11 +13,11 @@ title: About Me
 
 Links:
 
-* [linkedin.com](https://linkedin.com/in/sashasyedin) – LinkedIn profile
-* [github.com](https://github.com/sashasyedin) – A little bit of code
-* [leetcode.com](https://leetcode.com/u/sashasyedin) – Algorithm problem-solving practice
-* [codewars.com](https://codewars.com/users/sashasyedin) – Kata challenges (coding practice)
-* [credly.com](https://www.credly.com/users/sashasyedin) – Certification badges
+* [linkedin.com](https://linkedin.com/in/sashasyedin)
+* [github.com](https://github.com/sashasyedin)
+* [leetcode.com](https://leetcode.com/u/sashasyedin)
+* [codewars.com](https://codewars.com/users/sashasyedin)
+* [credly.com](https://www.credly.com/users/sashasyedin)
 
 <div class="contacts">
 	{% include svg-icons.html %}
