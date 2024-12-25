@@ -9,9 +9,11 @@ title: About Me
 	</div>
 </div>
 
-![photo-of-me](/images/photo.jpg){: .about-image .img-rounded }
+| ![photo-of-me](/images/photo.jpg){: .img-rounded } |
+|:--:| 
+| *Museum Mayer van den Bergh* |
 
-Links:
+<p class="links">Links:</p>
 
 * [linkedin.com](https://linkedin.com/in/sashasyedin)
 * [github.com](https://github.com/sashasyedin)

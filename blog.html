@@ -5,8 +5,13 @@ title: Blog
 <div class="row-fluid segment">
 	{% for post in site.posts %}	
 		<div class="sub-segment">
-    	<h2 class="small"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    	<p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>
+    		<h2 class="small"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    		<p class="post-meta">
+				<small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small>
+				{% if post.tags.size > 0 %}
+					<a class="tag">{{ post.tags | first }}</a>
+				{% endif %}
+			</p>
 		</div>
 	{% endfor %}
 </div>

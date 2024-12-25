@@ -62,6 +62,23 @@ a:active
   margin-bottom: 20px;
 }
 
+.post-meta small {
+  margin-right: 5px;
+}
+
+a.tag {
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+  margin-right: 5px;
+}
+
+a.tag:hover {
+  background-color: #ddd;
+}
+
 div.page-header {
   margin-bottom: 20px !important;
 }
@@ -113,11 +130,8 @@ article h4 {
   display: inline-block;
 }
 
-.about-image {
-  width: auto;
-  height: auto;
-  margin: auto auto 30px auto;
-  display: block;
+.links {
+  margin-top: 10px;
 }
 
 .post-image {
