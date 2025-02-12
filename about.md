@@ -9,9 +9,7 @@ title: About Me
 	</div>
 </div>
 
-| ![photo-of-me](/images/photo.jpg){: .img-rounded } |
-|:--:| 
-| *Museum Mayer van den Bergh* |
+![photo-of-me](/images/photo.jpg){: .img-rounded }
 
 <p class="links">Links:</p>
 
