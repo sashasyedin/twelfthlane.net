@@ -21,7 +21,7 @@ title: Homepage
 
 <div class="row-fluid">
 	<div class="span12">
-		<h3>Explore More Topics</h3>
+		<h2 class="small"><a href="{{ page.url }}">Explore Topics</a></h2>
 		<p>
 			{% assign all_tags = "" | split: "" %}
 			{% for post in site.posts %}
@@ -33,7 +33,7 @@ title: Homepage
 			{% endfor %}
 			{% assign all_tags = all_tags | sort %}
 			{% for tag in all_tags %}
-				<span class="label label-info">{{ tag }}</span>
+				<a class="tag">{{ tag }}</a>
 			{% endfor %}
 		</p>
 	</div>
