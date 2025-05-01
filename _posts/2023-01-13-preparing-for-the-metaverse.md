@@ -2,6 +2,9 @@
 title: Preparing for the Metaverse
 layout: post
 subtitle: Metaverse
+tags:
+  - VR
+  - AR
 ---
 Perhaps the biggest buzzword in global tech, business and finance, the Metaverse has recently garnered considerable worldwide attention from everyone. But what is the Metaverse exactly and what does it mean for our future society?
 
