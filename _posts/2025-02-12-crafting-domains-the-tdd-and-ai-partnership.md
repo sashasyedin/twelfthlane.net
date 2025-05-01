@@ -2,7 +2,9 @@
 title: "Crafting Domains: The TDD and AI Partnership"
 layout: post
 subtitle: TDD and AI
-tags: coding
+tags:
+  - AI
+  - coding
 ---
 The core responsibility of a developer lies in defining and implementing the domain layer, ensuring it aligns perfectly with the project's requirements and business rules. This is where the true value of a developer shines – understanding the details of the business and translating them into a robust, functional domain model. One powerful approach to accomplishing this crucial task is Test-Driven Development, a methodology that emphasizes writing tests *before* writing any code. This approach helps to ensure that the code meets the specified requirements and reduces the risk of introducing bugs. But what if we could take TDD a step further, using the power of AI to automate the code generation process itself?
 
