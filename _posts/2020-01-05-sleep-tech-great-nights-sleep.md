@@ -2,6 +2,7 @@
 title: "Sleep Tech: a Great Night's Sleep..."
 layout: post
 subtitle: Sleep Technology
+tags: sleeptech
 ---
 From Wiki:
 > Sleep is a naturally recurring state of mind and body, characterized by altered consciousness, relatively inhibited sensory activity, reduced muscle activity and inhibition of nearly all voluntary muscles during rapid eye movement sleep, and reduced interactions with surroundings.
