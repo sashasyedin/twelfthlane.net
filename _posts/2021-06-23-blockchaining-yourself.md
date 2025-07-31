@@ -2,6 +2,9 @@
 title: Blockchaining Yourself
 layout: post
 subtitle: Blockchain & Biotech
+tags:
+  - privacy
+  - biotech
 ---
 The rise of direct-to-consumer (DTC) genetic testing companies has happened quickly. Companies analyze individuals’ DNA and can provide information regarding a person’s genetic ancestry or possible genetic risk for certain health conditions. In addition to companies that sequence individuals’ DNA directly, more companies now offer their own analysis or digital health services to consumers who upload their genetic information. DTC genetic tests have limited regulation, and the growth of the DTC genetic testing industry has resulted in vast databases of consumers’ genetic information, raising serious privacy concerns. For instance, 23andMe provides both ancestry and health testing options to its users based on a saliva DNA sample. Customers have been signing away access to their own genetic data, often without realizing it, and several companies have profited hugely as a result.
 

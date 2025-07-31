@@ -67,11 +67,13 @@ a:active
 }
 
 a.tag {
+  display: inline-block;
   background-color: #f0f0f0;
   padding: 5px 10px;
   border-radius: 5px;
   text-decoration: none;
   color: #333;
+  margin-top: 5px;
   margin-right: 5px;
 }
 
@@ -112,7 +114,7 @@ article h4 {
 }
 
 .blur {
-	filter: blur(1px);
+  filter: blur(1px);
 }
 
 .red-ish {
